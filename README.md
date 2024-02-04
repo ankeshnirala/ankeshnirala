@@ -55,22 +55,22 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshnirala&stroke=
   
 
 <b>Top Repositories</b>
-<div width="100%" height="200" >
- <a href="https://github.com/ankeshnirala/aws-iam-service" align="left"><img height="140" width="100%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div  >
+ <a href="https://github.com/ankeshnirala/aws-iam-service" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
 
-<div width="100%" height="200" >
-<a href="https://github.com/ankeshnirala/pdftoolboxprocessor" align="right"><img height="140" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=pdftoolboxprocessor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div  >
+<a href="https://github.com/ankeshnirala/pdftoolboxprocessor" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=pdftoolboxprocessor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
 
-<div width="100%" height="200" >
-<a href="https://github.com/ankeshnirala/go_base_gorilla_mux" align="left"><img height="140" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=go_base_gorilla_mux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div  >
+<a href="https://github.com/ankeshnirala/go_base_gorilla_mux" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=go_base_gorilla_mux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
 
-<div width="100%" height="200" >
-<a href="https://github.com/ankeshnirala/golang_mongo_auth" align="right"><img height="140" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=golang_mongo_auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div >
+<a href="https://github.com/ankeshnirala/golang_mongo_auth" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=golang_mongo_auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
