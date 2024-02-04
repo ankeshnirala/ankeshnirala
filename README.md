@@ -16,7 +16,8 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 
 ### Socials
 
-<p align="left">
+<div>
+  <p align="left">
 <a href="https://www.github.com/ankeshnirala" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -32,6 +33,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 </picture>
 </a>
 </p>
+</div>
   
 
 <b>My GitHub Stats & Top Repositories</b>
