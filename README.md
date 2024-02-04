@@ -42,7 +42,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 ### My GitHub Stats & Top Repositories
 <div>
 
-<div width="90%" align="center">
+<div width="100%" align="center">
 <a
 href="http://www.github.com/ankeshnirala"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ankeshnirala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ankeshnirala's GitHub Stats" /></a>
 
@@ -52,7 +52,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshnirala&stroke=
 </a>
 </div>
 
-<div width="90%" align="center">
+<div width="100%" align="center">
 <a href="https://github.com/ankeshnirala/aws-iam-service" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
         
