@@ -51,7 +51,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshnirala&stroke=
 </div>
 
 ### Top Repositories
-<div width="100%" align="center">
+<div width="100%" align="">
 <a href="https://github.com/ankeshnirala/aws-iam-service" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
         
