@@ -11,7 +11,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 *   🧠  I'm learning Dcoker & Kubernetes
 *   🤝  I'm open to collaborating on Health Care, Education, Banking, Finance & Insurance Services
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 <b>Skills</b>
 <div>
   <p align="left">
@@ -19,7 +19,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 </p>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 <b>Socials</b>
 <div>
   <p align="left">
