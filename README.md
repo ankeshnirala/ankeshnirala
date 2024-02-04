@@ -43,11 +43,15 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 
 <b>Top Repositories</b>
 <div width="100%" display="flex" align="center">
-<a href="https://github.com/ankeshnirala/aws-iam-service" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <div width="48%" align="left">
+<a href="https://github.com/ankeshnirala/aws-iam-service" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
-        
-<a href="https://github.com/ankeshnirala/pdftoolboxprocessor" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=pdftoolboxprocessor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </div>
+
+<div width="48%" align="right">
+<a href="https://github.com/ankeshnirala/pdftoolboxprocessor" align="right"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=pdftoolboxprocessor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
+</div>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
