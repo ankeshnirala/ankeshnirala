@@ -11,14 +11,16 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 *   🧠  I'm learning Dcoker & Kubernetes
 *   🤝  I'm open to collaborating on Health Care, Education, Banking, Finance & Insurance Services
 
-### Skills 
+<br /><br /><br /><br /><br /><br /><br />
+<b>Skills</b>
 <div>
   <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 </div>
 
-### Socials
+<br /><br /><br /><br /><br /><br /><br />
+<b>Socials</b>
 <div>
   <p align="left">
 <a href="https://www.github.com/ankeshnirala" target="_blank" rel="noreferrer">
@@ -38,7 +40,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 </p>
 </div>
   
-
+<br /><br /><br /><br /><br /><br /><br />
 <b>My GitHub Stats</b>
 <div width="100%" align="center">
 <a
