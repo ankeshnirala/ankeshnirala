@@ -19,7 +19,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 </p>
 </div>
 
-<br /><br />
+<br />
 <b>Socials</b>
 <div>
   <p align="left">
@@ -40,7 +40,7 @@ Professional backend developer with 4+ years of experience in Golang and Nodejs.
 </p>
 </div>
   
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 <b>My GitHub Stats</b>
 <div width="100%" align="center">
 <a
