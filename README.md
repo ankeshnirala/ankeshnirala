@@ -55,6 +55,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshnirala&stroke=
 </div>
 
 <div  >
+ <a href="https://github.com/ankeshnirala/sqlscan" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=sqlscan&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
+
+<div  >
  <a href="https://github.com/ankeshnirala/aws-iam-service" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshnirala&repo=aws-iam-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
